@@ -1,0 +1,26 @@
+body {
+    background-color: #131313;
+}
+
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
+
+.login-submit {
+    width:80%;
+}
+
+.login-field {
+    margin-bottom: 20px;
+}
+
+.login-prompts {
+    padding-top: 15px;
+}
+
+.login-prompts small {
+    display: block;
+}
