@@ -5,7 +5,7 @@
 @endsection
 
 @section('content')
-<h1 class='title'>{{env('APP_NAME')}}</h1>
+<h1 class='title' style="color:white;">{{env('APP_NAME')}}</h1>
 
 <form method='POST' action='/shorten' role='form'>
     <input type='url' autocomplete='off'
